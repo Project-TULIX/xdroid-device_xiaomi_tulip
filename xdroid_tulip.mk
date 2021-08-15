@@ -46,8 +46,8 @@ TARGET_VENDOR_PRODUCT_NAME := tulip
 
 # Build Fingerprint
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    TARGET_DEVICE="lavender" \
-    PRODUCT_NAME="lavender" \
+    TARGET_DEVICE="tulip" \
+    PRODUCT_NAME="tulip" \
     PRIVATE_BUILD_DESC="redfin-user 11 RQ3A.210705.001 7380771 release-keys"
 
 BUILD_FINGERPRINT := "google/redfin/redfin:11/RQ3A.210705.001/7380771:user/release-keys"
